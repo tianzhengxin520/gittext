@@ -8,4 +8,9 @@ public class TextGit {
         System.out.println("222222222222");
         System.out.println("222222222222");
     }
+
+    public void show() {
+        int a = 10;
+        a += 500;
+    }
 }
